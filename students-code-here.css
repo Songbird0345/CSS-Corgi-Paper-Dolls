@@ -1,0 +1,8 @@
+.luna {
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+.top-hat {
+    z-index: 1;
+}
